@@ -1,0 +1,2 @@
+# Daily Notes
+Remove premature optimization that introduced a bug
